@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="781ee68d-1e2a-4641-a20e-643528631c7d" name="更改" comment="refactor(project): 重命名主应用程序类并配置IDEA项目设置&#10;&#10;- 将Demo4Application类重命名为Main类&#10;- 更新测试类Demo4ApplicationTests为MainTests&#10;- 添加IDEA编译器配置文件&#10;- 配置项目编码为UTF-8&#10;- 添加远程仓库配置&#10;- 配置Maven项目管理设置&#10;- 添加版本控制系统映射&#10;- 创建MarsCode工作区设置文件">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo4/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo4/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/MainTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="781ee68d-1e2a-4641-a20e-643528631c7d" name="更改" comment="更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,11 +76,36 @@
       <option name="project" value="LOCAL" />
       <updated>1772677697398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor(project): 重命名主应用程序类并配置IDEA项目设置&#10;&#10;- 将Demo4Application类重命名为Main类&#10;- 更新测试类Demo4ApplicationTests为MainTests&#10;- 添加IDEA编译器配置文件&#10;- 配置项目编码为UTF-8&#10;- 添加远程仓库配置&#10;- 配置Maven项目管理设置&#10;- 添加版本控制系统映射&#10;- 创建MarsCode工作区设置文件">
+      <option name="closed" value="true" />
+      <created>1772678219412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772678219412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新">
+      <option name="closed" value="true" />
+      <created>1772678380525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772678380525</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新">
+      <option name="closed" value="true" />
+      <created>1772678574168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772678574168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor(project): 重命名主应用程序类并配置IDEA项目设置&#10;&#10;- 将Demo4Application类重命名为Main类&#10;- 更新测试类Demo4ApplicationTests为MainTests&#10;- 添加IDEA编译器配置文件&#10;- 配置项目编码为UTF-8&#10;- 添加远程仓库配置&#10;- 配置Maven项目管理设置&#10;- 添加版本控制系统映射&#10;- 创建MarsCode工作区设置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor(project): 重命名主应用程序类并配置IDEA项目设置&#10;&#10;- 将Demo4Application类重命名为Main类&#10;- 更新测试类Demo4ApplicationTests为MainTests&#10;- 添加IDEA编译器配置文件&#10;- 配置项目编码为UTF-8&#10;- 添加远程仓库配置&#10;- 配置Maven项目管理设置&#10;- 添加版本控制系统映射&#10;- 创建MarsCode工作区设置文件" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
 </project>
