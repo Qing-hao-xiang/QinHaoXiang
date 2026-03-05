@@ -7,8 +7,9 @@ COPY src ./src
 RUN mvn clean package -DskipTests
 
 # 运行阶段（使用新的镜像标签）
-FROM openjdk:17-slim
+FROM eclipse-temurin:17-jdk
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE ${PORT}
 ENTRYPOINT ["java", "-jar", "app.jar", "--server.port=${PORT}"]
+
