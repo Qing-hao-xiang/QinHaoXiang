@@ -1,4 +1,4 @@
-# 构建阶段
+## 构建阶段
 FROM maven:3.8-openjdk-17 AS build
 WORKDIR /app
 COPY pom.xml .
