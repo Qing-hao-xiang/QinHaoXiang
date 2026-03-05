@@ -6,8 +6,8 @@ RUN mvn dependency:go-offline -B
 COPY src ./src
 RUN mvn clean package -DskipTests
 
-# 运行阶段
-FROM openjdk:17-jdk-slim
+# 运行阶段（使用新的镜像标签）
+FROM openjdk:17-slim
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE ${PORT}
